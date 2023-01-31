@@ -13,6 +13,6 @@ export const SectionStyle = styled.section`
 
 export const TitleStyle = styled.h2`
   margin-bottom: 15px;
-  font-weight: bold
+  font-weight: bold;
   color: #525252;
 `;
