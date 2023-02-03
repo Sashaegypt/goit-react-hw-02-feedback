@@ -24,7 +24,7 @@ export const Statistic = ({ good, neutral, bad, total, positivePercentage }) => 
     )
 }
 
-Statistic.PropTypes = {
+Statistic.propTypes = {
     good: PropTypes.number.isRequired,
     neutral: PropTypes.number.isRequired,
     bad: PropTypes.number.isRequired,
